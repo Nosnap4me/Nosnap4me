@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **John Martin** 
+# 👋 Hi there! I'm **Madelyn Elliot** 
 
 I'm a passionate **UI/UX Designer** dedicated to crafting intuitive and engaging user experiences. With a keen eye for detail and a love for problem-solving, I specialize in transforming complex ideas into elegant, user-centered designs.
 
