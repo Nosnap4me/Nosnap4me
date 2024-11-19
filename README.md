@@ -1,19 +1,37 @@
-# 👋 Hi there! I'm **NOsnap4me** 
+# Hi there! 👋 Welcome to my GitHub  
 
-I'm a passionate **UI/UX Designer** dedicated to crafting intuitive and engaging user experiences. With a keen eye for detail and a love for problem-solving, I specialize in transforming complex ideas into elegant, user-centered designs.
+I'm a **Roblox developer, creator, and innovator**, passionate about building engaging experiences and dynamic tools for the Roblox community. From scripting interactive features to designing immersive games, I love turning creative ideas into reality.  
 
 ---
 
-## 🌟 What I Do
-- **User Research**: Understanding user needs through interviews, surveys, and usability testing.
-- **Wireframing & Prototyping**: Creating low-fidelity wireframes and high-fidelity prototypes to visualize user flows and interactions.
-- **Visual Design**: Designing aesthetically pleasing interfaces that enhance usability and align with brand identity.
+## 🚀 What I Do  
+- **Game Development**: Creator of *Pls Donate Modded* and other unique experiences. I focus on building systems that keep players engaged and excited.  
+- **Web Development**: Combining modern frameworks like **Next.js** with responsive design and animation libraries to craft sleek, interactive websites for Roblox groups and projects.  
+- **Open Source**: Sharing tools, scripts, and knowledge to empower other developers. Check out my repositories for resources you can use in your own projects.  
 
-## 🚀 Skills
-- **Tools**: Figma, Sketch, Adobe XD, InVision
-- **Front-End**: HTML, CSS, JavaScript (basic knowledge)
-- **Methodologies**: Design Thinking, Agile, User-Centered Design
+---
 
-## 💡 My Philosophy
-I believe that great design is about empathy and understanding the user's journey. I'm committed to continuous learning and staying updated with the latest design trends.
+## 🌟 Current Projects  
+- **Nexus**: A Discord hub for Roblox projects, open-source contributions, and community collaboration.  
+- **Dynamic Group Websites**: Integrating the Roblox API to create responsive, animated websites for groups and games.  
+- **Placeholder University**: A studio-oriented "fake school" website combining humor and utility for showcasing skills.  
 
+---
+
+## 🔧 Technologies & Tools  
+- **Roblox**: Lua, scripting, game mechanics  
+- **Web Dev**: HTML, CSS, JavaScript, Next.js  
+- **Design**: Responsive layouts, animations, ScrollMagic  
+- **Tools**: npm, http-server, GitHub  
+
+---
+
+## 💡 Vision  
+My goal is to push the boundaries of Roblox development while fostering a community of creators who share ideas, learn, and grow together. Whether through unique game mechanics, polished group websites, or collaborative tools, I aim to leave a lasting impact on the platform.  
+
+---
+
+---
+
+### "Creating is my passion, sharing is my mission."  
+Thanks for stopping by! I can't wait to see what we can build together. 🚀
